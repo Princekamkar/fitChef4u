@@ -1,0 +1,162 @@
+/* Title section*/
+/* navbar-brand
+h1
+nav-link
+container-fluid
+btn*/
+#title {
+  background-color: #f8961e;
+}
+
+.navbar-brand {
+  font-size: 350%;
+  font-weight: bold;
+  font-family: 'Montserrat';
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  margin-top: 40px;
+  font-size: 350%;
+  font-weight: bold;
+  padding: 3%;
+}
+
+.nav-link {
+  font-family: 'Montserrat';
+  font-size: 130%;
+}
+
+.container-fluid {
+  padding: 3% 11%;
+  width: 100%;
+}
+
+.btn {
+  font-family: 'Montserrat';
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+/* Features section*/
+/* p
+icon */
+#features {
+  text-align: center;
+  padding: 6% 15%;
+  font-family: 'Montserrat';
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.icon {
+  padding: 10%;
+  color: #ffd670;
+}
+
+.icon:hover {
+  color: #f8961e;
+}
+
+/* Testimonials section */
+/* carousel-item
+testimonials-text,image */
+#testimonials {
+  text-align: center;
+  background-color: #f8961e;
+}
+
+.carousel-item {
+  padding: 5% 15%;
+}
+
+.testimonials-text {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 320%;
+  font-weight: bold;
+  line-height: 1.5;
+  padding-bottom: 5%;
+}
+
+.testimonials-image {
+  border-radius: 100%;
+  width: 12%;
+  margin: 2%;
+}
+
+/* Sponsors section */
+#sponsors {
+  padding: 2% 10%;
+  text-align: center;
+  background-color: #f8961e;
+}
+
+.sponsors-img {
+  width: 18%;
+  margin: 15px;
+}
+
+/* Pricing section */
+/* pricing-head,title
+price
+btn-block */
+#pricing {
+  text-align: center;
+  padding: 7% 9%;
+}
+
+.pricing-head {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 350%;
+  font-weight: bold;
+}
+
+p {
+  font-size: 100%;
+  margin-top: 0;
+  margin-bottom: 5%;
+}
+
+.pricing-title {
+  font-family: 'Montserrat';
+  font-size: 200%;
+}
+
+.price {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 300%;
+  font-weight: bold;
+}
+
+.btn-block {
+  width: 85%;
+}
+
+/* Call to action section */
+#cta {
+  text-align: center;
+  line-height: 1.2;
+  background-color: #f8961e;
+  padding: 5% 15%;
+}
+
+/* Footer */
+/* social-icon */
+#footer {
+  font-family: 'Montserrat';
+  padding: 6% 15%;
+  text-align: center;
+  font-size: 120%;
+}
+
+.social-icon {
+  width: 5%;
+  font-size: 120%;
+  color: #0b090a;
+  padding: 2%;
+}
+
+.social-icon:hover {
+  color: #3a86ff;
